@@ -8,7 +8,7 @@ An object detection based model to detect faces from images.
 ### 2. Mask Detection:
 A neural network based classification model that can classify masked and unmasked face images
 
-###3. Face Recognition:
+### 3. Face Recognition:
 A siamese network that compares the unmasked individuals with the database of individuals and helps recognize the unmasked individuals.
 
 
