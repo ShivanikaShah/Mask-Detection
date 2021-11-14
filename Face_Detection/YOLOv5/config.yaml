@@ -1,0 +1,6 @@
+
+path: /content/datasets/facemask/images/
+train: /content/datasets/facemask/images/train
+val: /content/datasets/facemask/images/val
+nc: 3
+names: ['with_mask', 'mask_weared_incorrect', 'without_mask']
