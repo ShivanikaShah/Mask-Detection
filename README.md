@@ -13,4 +13,4 @@ A siamese network that compares the unmasked individuals with the database of in
 
 
 ## DEMO
-WIP
+python detect.py --source 0 --weights ../submission/best.pt --conf-thres 0.6 --iou-thres 0.45 --img-size 640
