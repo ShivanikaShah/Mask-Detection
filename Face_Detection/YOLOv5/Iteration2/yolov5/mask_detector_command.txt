@@ -1,0 +1,1 @@
+python detect.py --source 0 --weights ../trained_model/best.pt --conf-thres 0.25 --iou-thres 0.45 --img-size 416

@@ -1,0 +1,1 @@
+python detect.py --source 0 --weights ../submission/best.pt --conf-thres 0.6 --iou-thres 0.45 --img-size 640
