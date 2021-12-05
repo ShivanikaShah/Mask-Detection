@@ -15,5 +15,7 @@ A SVM classifier enabled using Facenet compares the test image with the database
 ## DEMO
 ![Alt Text](https://github.com/unnikrishnansivakumar/Mask-Surveillance/blob/main/documents_reference/mask_gif.gif)
 
+
+## Solution Flow Diagram
 ![image](https://user-images.githubusercontent.com/29721075/144492479-93e36168-516f-4eef-978e-95e7b4ff0693.png)
 
